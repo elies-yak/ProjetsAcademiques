@@ -13,10 +13,12 @@ Bienvenue dans mon portfolio de projets scolaires, où je partage certaines de m
 - **Description :** Ce projet porte sur l'analyse de données radar et satellite pour étudier la couverture végétale. Il s'agit d'une application pratique de l'analyse d'images et de la télédétection pour des applications environnementales.
 
 ## Construction d'Affichages Statistiques pour l'Analyse des Données de Vols d'Avion
+- **Tuteur :** Mr. Jerome Lacaille (SAFRAN)
 - **Langage de Programmation :** Python
 - **Description :** Ce projet consiste en la construction d'affichages statistiques pour l'analyse des données de vols d'avion. Il vise à développer des outils de visualisation et d'analyse pour des données aéronautiques.
 
 ## Étude des Modèles de Cox, Ross, Rubinstein, et Black-Scholes
+- **Tuteur :** Mr. Joachim Lebovits (LAGA)
 - **Langage de Programmation :** Non spécifié
 - **Description :** Cette étude s'intéresse à l'analyse des modèles financiers de Cox-Ross-Rubinstein et Black-Scholes. Elle vise à explorer les mathématiques derrière ces modèles et leur application dans l'évaluation des options financières.
 
